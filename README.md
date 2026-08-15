@@ -17,4 +17,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
