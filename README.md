@@ -22,4 +22,5 @@
 | ------- | ------- |
 | [0177-nth-highest-salary](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0177-nth-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
