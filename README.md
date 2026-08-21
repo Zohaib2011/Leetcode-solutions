@@ -27,6 +27,7 @@
 | [0184-department-highest-salary](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0585-investments-in-2016](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
+| [0595-big-countries](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
