@@ -63,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
