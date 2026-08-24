@@ -29,6 +29,7 @@
 | [0182-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0184-department-highest-salary](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0585-investments-in-2016](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
