@@ -70,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0192-word-frequency/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
