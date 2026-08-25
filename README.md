@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
