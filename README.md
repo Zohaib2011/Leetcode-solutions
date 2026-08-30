@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0066-plus-one](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
