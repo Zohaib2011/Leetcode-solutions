@@ -9,11 +9,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
