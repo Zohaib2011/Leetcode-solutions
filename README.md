@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -128,4 +129,8 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
