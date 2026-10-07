@@ -115,11 +115,13 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,8 +132,13 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Zohaib2011/Leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
